@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/5taxzlylwflhmts/EZConnect.ipa</string>
+					<string>https://rensakura.github.io/VIVOTEK_OTA_Distribution/EZConnect.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/u2bu0josv8k3fef/Icon.png</string>
+					<string>https://rensakura.github.io/VIVOTEK_OTA_Distribution/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/u2bu0josv8k3fef/Icon.png</string>
+					<string>https://rensakura.github.io/VIVOTEK_OTA_Distribution/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
