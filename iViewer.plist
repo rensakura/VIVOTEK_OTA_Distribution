@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vivotek.iviewer2</string>
+				<string>com.vivotek.enterprise.iviewer2</string>
 				<key>bundle-version</key>
-				<string>3.7.2</string>
+				<string>3.7.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
