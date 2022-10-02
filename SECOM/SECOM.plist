@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vivotek.enterprise.iviewer2</string>
+				<string>com.vivotek.enterprise.secomodm</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SECOM</string>
+				<string>MobileViewer</string>
 			</dict>
 		</dict>
 	</array>
